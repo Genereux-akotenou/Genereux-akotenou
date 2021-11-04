@@ -54,6 +54,18 @@
 ---
 
 
+
+[![ReadMe Card](http://genereux-dev.me/tictactoe/)](https://github.com/Genereux-akotenou/tictactoe)
+
+
+[![ReadMe Card](https://github.com/Genereux-akotenou/SombaRevenge)](https://github.com/Genereux-akotenou/SombaRevenge)
+
+[website]: http://genereux-dev.me
+[linkedin]: https://www.linkedin.com/in/g%C3%A9n%C3%A9reux-akotenou-8b00901b4/
+[replit]: https://replit.com/@Genereux-akoten
+[freecodecamp]: https://www.freecodecamp.org/genereux-akotenou
+
+
 <!--
 **Genereux-akotenou/Genereux-akotenou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
