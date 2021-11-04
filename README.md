@@ -56,7 +56,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Genereux-akotenou&repo=tictactoe)](https://github.com/Genereux-akotenou/tictactoe)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Genereux-akotenou&repo=SombaRevenge)](https://github.com/Genereux-akotenou/SombaRevenge)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Genereux-akotenou&repo=esp8266-web-server)](https://github.com/Genereux-akotenou/esp8266-web-server)
 
 [website]: http://genereux-dev.me
 [linkedin]: https://www.linkedin.com/in/g%C3%A9n%C3%A9reux-akotenou-8b00901b4/
