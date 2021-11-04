@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" />
 
 <!--
 **Genereux-akotenou/Genereux-akotenou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
