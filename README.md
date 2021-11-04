@@ -41,8 +41,8 @@
 
 ---
 
-<img align="left" alt="Shreyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShreyasSubhedar&show_icons=true&hide_border=true&theme=light&hide_title=true&include_all_commits=true&count_private=true" />
-<img align="left" alt="Shreyas's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasSubhedar&hide_border=true&hide=Jupyter Notebook,HTML,CSS" />
+<img align="left" alt="Shreyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Genereux-akotenou&show_icons=true&hide_border=true&theme=light&hide_title=true&include_all_commits=true&count_private=true" />
+<img align="left" alt="Généreux's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genereux-akotenou&hide_border=true&hide=Jupyter Notebook,HTML,CSS" />
 
 </br>
 </br>
