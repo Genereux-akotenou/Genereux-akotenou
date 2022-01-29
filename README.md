@@ -1,8 +1,9 @@
 ### Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" />
 
-- 🌱 I’m currently learning vuejs
+- 🌱 I’m currently learning Tensorflow
 - 👯 I’m looking to collaborate with geeky minds
-- 🥅 2021 Goals: Lunch my first IoT start-up
+- 🥅 Goals: I just want to sleep less stupid than I woke up
+<!--- 🥅 2021 Goals: Lunch my first IoT start-up-->
 - 📫 How to reach me: [Portfolio](http://genereux-dev.me/)
 
 ---
