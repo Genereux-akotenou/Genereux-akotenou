@@ -13,7 +13,7 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Replit" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" />][replit]
-[<img align="left" alt="codeSTACKr | Replit" width="22px" src="https://cdn.rawgit.com/Deftwun/e3756a8b518cbb354425/raw/6584db8babd6cbc4ecb35ed36f0d184a506b979e/free-code-camp-logo.svg" />][freecodecamp]
+[<img align="left" alt="codeSTACKr | Replit" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/FreeCodeCamp_logo.svg" />][freecodecamp]
 
 <br />
 
