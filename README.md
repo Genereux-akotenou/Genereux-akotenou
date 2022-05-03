@@ -54,6 +54,13 @@
 
 ---
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Genereux-akotenou&repo=webMeteo_arduino)](https://github.com/Genereux-akotenou/webMeteo_arduino)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Genereux-akotenou&repo=webMeteo_iot)](https://github.com/Genereux-akotenou/webMeteo_iot)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Genereux-akotenou&repo=DataScience_Projects)](https://github.com/Genereux-akotenou/DataScience_Projects)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Genereux-akotenou&repo=tictactoe)](https://github.com/Genereux-akotenou/tictactoe)
 
