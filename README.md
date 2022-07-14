@@ -43,7 +43,7 @@
 ---
 
 <img align="left" alt="Généreux's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Genereux-akotenou&show_icons=true&hide_border=true&theme=light&hide_title=true&include_all_commits=true&count_private=true" />
-<img align="left" alt="Généreux's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genereux-akotenou&hide_border=false&hide=Jupyter Notebook,HTML,CSS,Lua" />
+<img align="left" alt="Généreux's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genereux-akotenou&hide_border=false&hide=Jupyter Notebook,HTML,CSS,Lua,C++" />
 
 </br>
 </br>
