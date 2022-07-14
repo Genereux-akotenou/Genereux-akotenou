@@ -42,8 +42,8 @@
 
 ---
 
-<img align="left" alt="Shreyas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Genereux-akotenou&show_icons=true&hide_border=true&theme=light&hide_title=true&include_all_commits=true&count_private=true" />
-<img align="left" alt="Généreux's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genereux-akotenou&hide_border=true&hide=Jupyter Notebook,HTML,CSS" />
+<img align="left" alt="Généreux's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Genereux-akotenou&show_icons=true&hide_border=true&theme=light&hide_title=true&include_all_commits=true&count_private=true" />
+<img align="left" alt="Généreux's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genereux-akotenou&hide_border=true&hide=" />
 
 </br>
 </br>
@@ -51,9 +51,9 @@
 </br>
 </br>
 </br>
-
----
 <!--
+---
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Genereux-akotenou&repo=webMeteo_arduino)](https://github.com/Genereux-akotenou/webMeteo_arduino)
 
 
