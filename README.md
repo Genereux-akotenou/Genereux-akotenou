@@ -1,11 +1,11 @@
 ### Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" />
-<div align="right" style="display:flex; justify-content:space-between;">
-  <h1>Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" /></h1>
+<!--<div align="right" style="display:flex; justify-content:space-between;">
+  <h3>Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" /></h3>
   <div>
     <span>Visitors</span>
     <img align="center" src="https://profile-counter.glitch.me/{Genereux-akotenou}/count.svg" />
   </div>
-</div>
+</div>-->
 
 - 🌱 I’m currently working on uml designer platform based on NLP (https://www.umldesigner.app)
 - 👯 I’m looking to collaborate with geeky minds
@@ -79,7 +79,7 @@
 [freecodecamp]: https://www.freecodecamp.org/genereux-akotenou
 
 <!-- visitor sections -->
-<div align="center">
+<div align="center" style="display:none;">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Genereux-akotenou}/count.svg" /></p> 
 <br></div>
