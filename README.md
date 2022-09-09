@@ -84,4 +84,9 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Genereux-akotenou}/count.svg" /></p> 
 <br></div>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/me.gif" width=400 height=340>
+  <img src="https://raw.githubusercontent.com/Ayushparikh-code/Ayushparikh-code/main/new.gif" height=340/>
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
