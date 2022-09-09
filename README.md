@@ -79,10 +79,10 @@
 [freecodecamp]: https://www.freecodecamp.org/genereux-akotenou
 
 <!-- visitor sections -->
-<div align="center" tyle="visibility:hidden">
+<!--<div align="center" tyle="visibility:hidden">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Genereux-akotenou}/count.svg" /></p> 
-<br></div>
+<br></div-->
 
 <!-- pas serieux -->
 <!--<p align="center">
