@@ -1,7 +1,10 @@
 ### Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" />
-<div align="right" style="display:flex;">
-<p align="centre"><b>Visitors </b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Genereux-akotenou}/count.svg" /></p> 
+<div align="right" style="display:flex; justify-content:space-between;">
+  <h1>Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" /></h1>
+  <div>
+    <span>Visitors</span>
+    <img align="center" src="https://profile-counter.glitch.me/{Genereux-akotenou}/count.svg" />
+  </div>
 </div>
 
 - 🌱 I’m currently working on uml designer platform based on NLP (https://www.umldesigner.app)
