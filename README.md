@@ -21,9 +21,9 @@
 
 <table>
   <tr>
-    <td style="text-align: center;">
+    <!--<td style="text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=genereux-akotenou&show_icons=true&locale=en&layout=compact" alt="genereux-akotenou" width="300" />
-    </td>
+    </td>-->
     <td style="text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api?username=genereux-akotenou&show_icons=true&locale=en" alt="genereux-akotenou" width="300" />
     </td>
