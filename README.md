@@ -20,7 +20,7 @@
 ---
 
 <table>
-  <tr>
+  <tr style="text-align: center; border: none !important; padding: 0;">
     <!--<td style="text-align: center;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=genereux-akotenou&show_icons=true&locale=en&layout=compact" alt="genereux-akotenou" width="300" />
     </td>-->
