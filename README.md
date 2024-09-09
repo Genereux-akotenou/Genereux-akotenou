@@ -4,6 +4,7 @@
     Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" />
   </h2>
   <span align="left"> <img src="https://komarev.com/ghpvc/?username=genereux-akotenou&label=Profile%20views&color=0e75b6&style=flat" alt="genereux-akotenou" /> </span>
+</div>
 <ul>
   <li>🌱 I’m currently doing MSc in AI & Data Science at Mohamed VI Polytechnic University</li>
   <li>👯 I’m looking to collaborate with geeky minds</li>
