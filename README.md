@@ -33,9 +33,25 @@
   </tr>
 </table>
 
----
-
 ### Languages and Tools:
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
+<img align="left" alt="TensorFlow" width="26px" src="https://www.tensorflow.org/images/tensorflow_logo_2019.svg" />
+<img align="left" alt="Keras" width="26px" src="https://keras.io/img/logo.png" />
+<img align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
+<img align="left" alt="Scikit-Learn" width="26px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />
+<img align="left" alt="Pandas" width="26px" src="https://pandas.pydata.org/pandas-docs/stable/_static/pandas_logo.png" />
+<img align="left" alt="NumPy" width="26px" src="https://numpy.org/images/logos/numpy.svg" />
+<img align="left" alt="Matplotlib" width="26px" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" />
+<img align="left" alt="Seaborn" width="26px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
+<img align="left" alt="Jupyter" width="26px" src="https://jupyter.org/assets/main-logo.svg" />
+<img align="left" alt="Apache Spark" width="26px" src="https://spark.apache.org/images/spark-logo-triangle.png" />
+<img align="left" alt="Hadoop" width="26px" src="https://hadoop.apache.org/docs/stable/hadoop-logo.png" />
+<img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+
+---
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
