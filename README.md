@@ -10,8 +10,9 @@
 - 🌱 I’m currently doing MSc in AI & Data Science at Mohamed VI Polytechnic University
 - 👯 I’m looking to collaborate with geeky minds
 - 🥅 Goals: I just want to sleep less stupid than I woke up
-<!--- 🥅 2021 Goals: Lunch my first IoT start-up-->
 - 📫 My Blog: [genereux-akotenou.github.io](http://genereux-akotenou.github.io)
+
+<img align="left" alt="Généreux's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Genereux-akotenou&show_icons=true&hide_border=true&theme=light&hide_title=true&include_all_commits=true&count_private=true" />
 
 ---
 
