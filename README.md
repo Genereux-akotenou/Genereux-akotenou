@@ -1,3 +1,4 @@
+<!-- Container for header and visitor count -->
 <div align="right" style="display:flex; flex-direction: row; justify-content:space-between;">
   <h2>Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" /></h2>
   <div>
@@ -6,17 +7,21 @@
   </div>
 </div>
 
+<!-- Container for main content and stats -->
 <div style="display: flex; flex-direction: row;">
   <div>
-    - 🌱 I’m currently doing MSc in AI & Data Science at Mohamed VI Polytechnic University
-    - 👯 I’m looking to collaborate with geeky minds
-    - 🥅 Goals: I just want to sleep less stupid than I woke up
-    - 📫 My Blog: [genereux-akotenou.github.io](http://genereux-akotenou.github.io)
+    <ul>
+      <li>🌱 I’m currently doing MSc in AI & Data Science at Mohamed VI Polytechnic University</li>
+      <li>👯 I’m looking to collaborate with geeky minds</li>
+      <li>🥅 Goals: I just want to sleep less stupid than I woke up</li>
+      <li>📫 My Blog: <a href="http://genereux-akotenou.github.io">genereux-akotenou.github.io</a></li>
+    </ul>
   </div>
   <div>
     <img align="left" alt="Généreux's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Genereux-akotenou&show_icons=true&hide_border=true&theme=light&hide_title=true&include_all_commits=true&count_private=true" />
   </div>
 </div>
+
 
 
 ---
