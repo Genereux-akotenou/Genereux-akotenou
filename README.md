@@ -1,12 +1,12 @@
-### Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" />
-<div align="right" style="display:flex; justify-content:space-between;">
+<div align="right" style="display:flex; flex-direction: row; justify-content:space-between;">
+  <h2>Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" /></h2>
   <div>
     <span>Visitors</span>
     <img align="center" src="https://profile-counter.glitch.me/{Genereux-akotenou}/count.svg" />
   </div>
 </div>
 
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row;">
   <div>
     - 🌱 I’m currently doing MSc in AI & Data Science at Mohamed VI Polytechnic University
     - 👯 I’m looking to collaborate with geeky minds
