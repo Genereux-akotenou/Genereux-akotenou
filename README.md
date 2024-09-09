@@ -1,18 +1,23 @@
 ### Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" />
 <div align="right" style="display:flex; justify-content:space-between;">
-  <h3>Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" /></h3>
   <div>
     <span>Visitors</span>
     <img align="center" src="https://profile-counter.glitch.me/{Genereux-akotenou}/count.svg" />
   </div>
 </div>
 
-- 🌱 I’m currently doing MSc in AI & Data Science at Mohamed VI Polytechnic University
-- 👯 I’m looking to collaborate with geeky minds
-- 🥅 Goals: I just want to sleep less stupid than I woke up
-- 📫 My Blog: [genereux-akotenou.github.io](http://genereux-akotenou.github.io)
+<div style="display: flex;">
+  <div>
+    - 🌱 I’m currently doing MSc in AI & Data Science at Mohamed VI Polytechnic University
+    - 👯 I’m looking to collaborate with geeky minds
+    - 🥅 Goals: I just want to sleep less stupid than I woke up
+    - 📫 My Blog: [genereux-akotenou.github.io](http://genereux-akotenou.github.io)
+  </div>
+  <div>
+    <img align="left" alt="Généreux's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Genereux-akotenou&show_icons=true&hide_border=true&theme=light&hide_title=true&include_all_commits=true&count_private=true" />
+  </div>
+</div>
 
-<img align="left" alt="Généreux's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Genereux-akotenou&show_icons=true&hide_border=true&theme=light&hide_title=true&include_all_commits=true&count_private=true" />
 
 ---
 
