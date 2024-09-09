@@ -1,5 +1,5 @@
 <!-- Container for header and visitor count -->
-<div style="display:flex; flex-direction: row; justify-content:space-between;">
+<!--<div style="display:flex; flex-direction: row; justify-content:space-between;">
   <div>
     <h2>Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" /></h2>
   </div>
@@ -7,8 +7,9 @@
     <span>Visitors</span>
     <img align="center" src="https://profile-counter.glitch.me/{Genereux-akotenou}/count.svg" />
   </div>
-</div>
+</div>-->
 
+### Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" />
 <!-- Container for main content and stats -->
 <ul>
   <li>🌱 I’m currently doing MSc in AI & Data Science at Mohamed VI Polytechnic University</li>
