@@ -25,10 +25,10 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=genereux-akotenou&show_icons=true&locale=en&layout=compact" alt="genereux-akotenou" width="300" />
     </td>-->
     <td style="text-align: center; border: none !important; padding: 0;">
-      <img style="height: 10em;" src="https://github-readme-stats.vercel.app/api?username=genereux-akotenou&show_icons=true&locale=en" alt="genereux-akotenou" width="450" />
+      <img style="height: 13em;" src="https://github-readme-stats.vercel.app/api?username=genereux-akotenou&show_icons=true&locale=en" alt="genereux-akotenou" width="450" />
     </td>
     <td style="text-align: center; border: none !important; padding: 0;">
-      <img style="height: 10em;" src="https://github-readme-streak-stats.herokuapp.com/?user=genereux-akotenou&" alt="genereux-akotenou" width="450" />
+      <img style="height: 13em;" src="https://github-readme-streak-stats.herokuapp.com/?user=genereux-akotenou&" alt="genereux-akotenou" width="450" />
     </td>
   </tr>
 </table>
