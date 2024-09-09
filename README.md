@@ -57,6 +57,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 
+<!--
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/genereux"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="genereux" /></a></p><br><br>
+-->
 
