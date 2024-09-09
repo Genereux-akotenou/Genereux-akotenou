@@ -7,11 +7,11 @@
   </div>
 </div>-->
 
-- 🌱 I’m currently working on uml designer platform based on NLP (https://www.umldesigner.app)
+- 🌱 I’m currently doing MSc in AI & Data Science at Mohamed VI Polytechnic University
 - 👯 I’m looking to collaborate with geeky minds
 - 🥅 Goals: I just want to sleep less stupid than I woke up
 <!--- 🥅 2021 Goals: Lunch my first IoT start-up-->
-- 📫 How to reach me: [Portfolio](http://genereux-dev.me/)
+- 📫 My Blog: [genereux-akotenou.github.io](http://genereux-akotenou.github.io)
 
 ---
 
