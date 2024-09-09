@@ -10,8 +10,26 @@
 </div>-->
 
 ### Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" />
+<!-- Container for side-by-side elements -->
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🌱 I’m currently doing MSc in AI & Data Science at Mohamed VI Polytechnic University</li>
+        <li>👯 I’m looking to collaborate with geeky minds</li>
+        <li>🥅 Goals: I just want to sleep less stupid than I woke up</li>
+        <li>📫 My Blog: <a href="http://genereux-akotenou.github.io">genereux-akotenou.github.io</a></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=genereux-akotenou&show_icons=true&locale=en" alt="genereux-akotenou" />
+    </td>
+  </tr>
+</table>
+
+
 <!-- Container for main content and stats -->
-<div style="display: flex; flex-direction: row;">
+<!--<div style="display: flex; flex-direction: row;">
   <ul>
     <li>🌱 I’m currently doing MSc in AI & Data Science at Mohamed VI Polytechnic University</li>
     <li>👯 I’m looking to collaborate with geeky minds</li>
@@ -21,7 +39,7 @@
   <div>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genereux-akotenou&show_icons=true&locale=en" alt="genereux-akotenou" /></p>
   </div>
-</div>
+</div>-->
 
 <h3 align="left">Support:</h3>
 <div style="display: flex; flex-direction: row;">
