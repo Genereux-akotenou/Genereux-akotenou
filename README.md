@@ -34,7 +34,7 @@
 </table>
 
 ### Languages and Tools:
-<img align="left" alt="Keras" width="66px" src="https://keras.io/img/logo.png" />
+<img align="left" alt="Keras" width="66px" src="https://keras.io/img/logo.png" style="position: relative; top: 0.15em;" />
 <img align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 <img align="left" alt="Scikit-Learn" width="66px" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
