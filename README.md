@@ -1,13 +1,4 @@
-<!-- Container for header and visitor count -->
-<!--<div style="display:flex; flex-direction: row; justify-content:space-between;">
-  <div>
-    <h2>Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" /></h2>
-  </div>
-  <div>
-    <span>Visitors</span>
-    <img align="center" src="https://profile-counter.glitch.me/{Genereux-akotenou}/count.svg" />
-  </div>
-</div>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=genereux-akotenou&label=Profile%20views&color=0e75b6&style=flat" alt="genereux-akotenou" /> </p>
 
 ### Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" />
 <ul>
