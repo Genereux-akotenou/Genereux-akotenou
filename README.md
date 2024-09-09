@@ -1,6 +1,8 @@
 <!-- Container for header and visitor count -->
-<div align="right" style="display:flex; flex-direction: row; justify-content:space-between;">
-  <h2>Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" /></h2>
+<div style="display:flex; flex-direction: row; justify-content:space-between;">
+  <div>
+    <h2>Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" /></h2>
+  </div>
   <div>
     <span>Visitors</span>
     <img align="center" src="https://profile-counter.glitch.me/{Genereux-akotenou}/count.svg" />
