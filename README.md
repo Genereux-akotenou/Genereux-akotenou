@@ -10,19 +10,29 @@
 </div>
 
 <!-- Container for main content and stats -->
-<div style="display: flex; flex-direction: row;">
-  <div>
-    <ul>
-      <li>🌱 I’m currently doing MSc in AI & Data Science at Mohamed VI Polytechnic University</li>
-      <li>👯 I’m looking to collaborate with geeky minds</li>
-      <li>🥅 Goals: I just want to sleep less stupid than I woke up</li>
-      <li>📫 My Blog: <a href="http://genereux-akotenou.github.io">genereux-akotenou.github.io</a></li>
-    </ul>
-  </div>
+<ul>
+  <li>🌱 I’m currently doing MSc in AI & Data Science at Mohamed VI Polytechnic University</li>
+  <li>👯 I’m looking to collaborate with geeky minds</li>
+  <li>🥅 Goals: I just want to sleep less stupid than I woke up</li>
+  <li>📫 My Blog: <a href="http://genereux-akotenou.github.io">genereux-akotenou.github.io</a></li>
+</ul>
+
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/genereux"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="genereux" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genereux-akotenou&show_icons=true&locale=en&layout=compact" alt="genereux-akotenou" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genereux-akotenou&show_icons=true&locale=en" alt="genereux-akotenou" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genereux-akotenou&" alt="genereux-akotenou" /></p>
+
+  
+
   <div>
     <img align="left" alt="Généreux's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Genereux-akotenou&show_icons=true&hide_border=true&theme=light&hide_title=true&include_all_commits=true&count_private=true" />
   </div>
-</div>
+
 
 
 
