@@ -27,6 +27,19 @@
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=genereux-akotenou&show_icons=true&locale=en&layout=compact" alt="genereux-akotenou" width="300" />
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=genereux-akotenou&show_icons=true&locale=en" alt="genereux-akotenou" width="300" />
+    </td>
+    <td style="text-align: center;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=genereux-akotenou&" alt="genereux-akotenou" width="300" />
+    </td>
+  </tr>
+</table>
 
 <!-- Container for main content and stats -->
 <!--<div style="display: flex; flex-direction: row;">
