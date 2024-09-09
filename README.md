@@ -1,10 +1,3 @@
-
-<div style="display: flex; flex-direction: row;">
-  <h2>
-  </h2>
-  <span align="left">  </span>
-</div>
-
 ### Hi there, I'm Généreux <img align="left" alt="high" width="30px" height="30px" src="./waving_hand.gif" /> <img align="right" src="https://komarev.com/ghpvc/?username=genereux-akotenou&label=Profile%20views&color=0e75b6&style=flat" alt="genereux-akotenou" />
 <ul>
   <li>🌱 I’m currently doing MSc in AI & Data Science at Mohamed VI Polytechnic University</li>
