@@ -21,7 +21,7 @@
     </td>
   </tr>
 </table>
-
+<!--
 ### Languages and Tools:
 <img align="left" alt="Keras" width="66px" src="https://keras.io/img/logo.png" style="position: relative; top: 0.15em; display: inline;" />
 <img align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" style="display: inline;" />
@@ -39,7 +39,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="display: inline;" />
 <img align="left" alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" style="display: inline;" />
 <img align="left" alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/fr/3/3b/Raspberry_Pi_logo.svg" style="display: inline;" />
-
+-->
 <br/>
 <br/>
 
