@@ -39,9 +39,9 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="display: inline;" />
 <img align="left" alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" style="display: inline;" />
 <img align="left" alt="MySQL" width="26px" src="https://upload.wikimedia.org/wikipedia/fr/3/3b/Raspberry_Pi_logo.svg" style="display: inline;" />
--->
+
 <br/>
-<br/>
+<br/>-->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
