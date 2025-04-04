@@ -3,9 +3,9 @@
   <li>🌱 I’m currently doing MSc in AI & Data Science at Mohamed VI Polytechnic University</li>
   <li>👯 I’m looking to collaborate with geeky minds</li>
   <li>🥅 Goals: I just want to sleep less stupid than I woke up</li>
-  <li>📫 My Blog: <a href="http://genereux-akotenou.github.io">genereux-akotenou.github.io</a></li>
-  <li>🤗 My Hugginface: <a href="https://huggingface.co/Genereux-akotenou">huggingface.co/Genereux-akotenou</a></li>
-  <li>🌐 My Hugginface: <a href="https://www.linkedin.com/in/genereux-akotenou/">linkedin.com/in/genereux-akotenou</a></li>
+  <li>📫 My Website/Blog: <a href="http://genereux-akotenou.github.io">genereux-akotenou.github.io</a></li>
+  <li>🤗 My Hugginface  : <a href="https://huggingface.co/Genereux-akotenou">huggingface.co/Genereux-akotenou</a></li>
+  <li>🌐 My Linkedin    : <a href="https://www.linkedin.com/in/genereux-akotenou/">linkedin.com/in/genereux-akotenou</a></li>
 </ul>
 
 ---
